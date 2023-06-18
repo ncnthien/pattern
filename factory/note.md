@@ -1,3 +1,5 @@
+## Factory pattern
+
 ### Problem
 - Assume that at first you're just working with Truck class, and then clients want you to add Ship class also.
 - The problem is your code currently is coupled to the Truck class only.
