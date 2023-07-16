@@ -43,6 +43,6 @@
   - You create platform-independent classes and apps.
   - The client code works with high-level abstractions. It isn't exposed to the platform details.
   - *Open/Closed Principle*. You can introduce new abstractions and implementations independently of each other.
-  - *Single Responsibility Principle. You can focus on high-level logic in the abstraction and on platform details in the implementation.
+  - *Single Responsibility Principle*. You can focus on high-level logic in the abstraction and on platform details in the implementation.
 - Cons:
   - You might make the code more complicated by applying the pattern to a highly cohesive class.
